@@ -1,0 +1,2 @@
+debian/bin/reversalcoind usr/bin
+src/reversalcoind usr/lib/reversalcoin

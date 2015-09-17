@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ReversalCoin
+Comment=ReversalCoin P2P Cryptocurrency
+Comment[fr]=ReversalCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ReversalCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/reversalcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/reversalcoin;
+Categories=Office;
